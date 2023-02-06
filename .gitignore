@@ -1,2 +1,6 @@
 *.zip
+MeteoCH.output.ipynb
 .ipynb_checkpoints/
+SVD/
+Stationarity/
+Test/
