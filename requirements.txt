@@ -1,3 +1,4 @@
+conda install 
 jupyter
 pyyaml
 pandas
